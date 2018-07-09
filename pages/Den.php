@@ -62,7 +62,7 @@
 <h1>Jewellery</h1>
   	
   	<div id="s_div">
-  	 <br><div class="s_image"><br><img src="../images/iphone7.jpg" style="height:200px;width:100;" /><br>iPhone 7 plus <br>Price:40000 Kshs<br>Contact: 0789678543<br></div><br>
+  	 <br><div class="s_image"><br><img src="../images/headphones.jpg" style="height:200px;width:100;" /><br>cool red headphones <br>Price:40000 Kshs<br>Contact: 0789678543<br></div><br>
 
   	<!--  <br><div class="s_image"><br><img src="laptop.jpg" style="height:200px;width:100;"/><br>Maasai beaded bangles<br>Available in a wide variety of colours<br> Price:150<br></div> -->
 		<div class="s_image"><br><img src="../images/powerbank.jpg" style="height:200px;width:100;"/><br>Laptop powerbank <br>Comes in red, blue, yellow and white. <br>Price:500 Kshs<br>Contact: 0789678543<br> </div>

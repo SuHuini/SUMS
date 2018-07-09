@@ -71,5 +71,8 @@
                 <br><div class="s_image"><br><img src="../images/maasa.jpg" style="height:200px;width:100;"/><br>Maasai earrings<br>Available in purple, maroon, red, green, yellow<br>Price:150<br></div>
             </div>
         </center>
+		<div>
+		<?php include('footer.php'); ?>x
+	</div>
     </body>
 </html>
