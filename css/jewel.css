@@ -1,13 +1,5 @@
-/* div { */
- /* border: 5px solid black; */
- /* height: 300px; */
- /* width: 500px; */
-  /* font-size: 1.0em; */
-  /* font-weight: bold; */
-  /* background-color:white; */
-/* } */
+
 body {
-    /* background-color: lightblue; */
     background-color:white;
 }
 
@@ -16,16 +8,7 @@ h1 {
 	font: 50px;
 	
 }
-/* div a{ */
-	height:31px;
-	width:40px;
-	border: 5px solid FireBrick;
-	background-color: FireBrick;
-	font-size:30px;
-	color:white;
-	
-/* } */
-/* Style the search field */
+
 form.example input[type=text] {
   padding: 10px;
   font-size: 17px;
